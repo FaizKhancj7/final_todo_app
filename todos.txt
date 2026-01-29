@@ -1,4 +1,2 @@
-swim
-singign
-dragging
+funrun
 run
